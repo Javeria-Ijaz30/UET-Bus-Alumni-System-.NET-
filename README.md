@@ -28,4 +28,7 @@ WEBSITE
 <img width="1440" height="900" alt="Homepage" src="https://github.com/user-attachments/assets/398dd3e4-6987-4dd8-a969-c7242407546e" />
 <img width="1440" height="3846" alt="About" src="https://github.com/user-attachments/assets/cf64b9bd-8379-445f-a7ca-f705a807e772" />
 
+=========================================================================================================================================================================================================================================================================
+CLASS DIAGRAM
+<img width="600" height="794" alt="image" src="https://github.com/user-attachments/assets/a078b185-4a59-40c3-8e97-9379bb59f6c9" />
 
