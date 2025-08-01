@@ -16,10 +16,7 @@ This project aims to build a web + desktop-based Transport Management System for
 - 💾 SQL-based record keeping
 
 
-📂 Folder Structure
-- `/WebApp/` — ASP.NET Pages
-- `/SQL/` — Database schema & queries
-- `/Screenshots/` — UI design ideas
+
 -----------------------------------------------------------------------------------------------------------------------------
 WEBSITE
 <img width="1440" height="901" alt="Signup Page" src="https://github.com/user-attachments/assets/e57634fb-ebbb-4991-b7fd-1199251e3746" />
