@@ -1,6 +1,7 @@
 
-🚌 UET Bus Alumni System
+🚌 UET BUS ALUMNI SYSTEM
 Description:
+
 This project aims to build a web + desktop-based Transport Management System for UET alumni. It will allow users to register, view bus routes, and make bookings. Admins can add and manage buses.
 
 🔧 Tech Stack
